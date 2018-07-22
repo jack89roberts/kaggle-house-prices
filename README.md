@@ -1,1 +1,3 @@
 # kaggle-house-prices
+
+My work for the kaggle competition [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques), a regression problem in which the sale price of houses sold in Iowa must be predicted based on features such as size, finish quality, neighbourhood and dwelling type. [My approach to the problem](https://www.kaggle.com/jack89roberts/top-7-using-elasticnet-with-interactions) ranks in the top seven percent for the competition and has been [highlighted as one of the most popular kernels using an ElasticNet model] site-wide on kaggle.
